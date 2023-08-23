@@ -11,3 +11,4 @@ tesseract
 Pillow
 pypdf
 tiktoken
+dotenv
